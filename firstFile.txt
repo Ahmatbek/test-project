@@ -1,0 +1,10 @@
+This is my first Git repository.
+I am learning how to use Git.
+Git helps track changes in files.
+Repositories store project files.
+Commits save snapshots of work.
+Branches allow parallel development.
+GitHub hosts remote repositories.
+Cloning copies a repository locally.
+Pushing sends changes to a remote repository.
+This README file was created for practice.
