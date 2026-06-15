@@ -1,0 +1,10 @@
+Git is a distributed version control system.
+Each commit has a unique identifier.
+Repositories can be local or remote.
+Developers use branches to work on features.
+Merging combines changes from different branches.
+The git status command shows repository information.
+The git log command displays commit history.
+Files must be staged before committing.
+Remote repositories enable collaboration.
+Practice is the best way to learn Git.
