@@ -1,5 +1,5 @@
-Git is a distributed version control system.
-Each commit has a unique identifier.
+Learning Git requires regular practice and experimentation.
+This file contains notes about basic Git commands.
 Repositories can be local or remote.
 Developers use branches to work on features.
 Merging combines changes from different branches.
