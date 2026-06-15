@@ -1,5 +1,5 @@
-This project was created to practice version control with Git.
-The repository contains sample files for learning Git commands.
+The project was created for educational purposes.
+I used github as a repository hub.
 Git helps track changes in files.
 Repositories store project files.
 Commits save snapshots of work.
