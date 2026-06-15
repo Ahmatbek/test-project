@@ -6,5 +6,5 @@ Commits save snapshots of work.
 Branches allow parallel development.
 GitHub hosts remote repositories.
 Cloning copies a repository locally.
-Pushing sends changes to a remote repository.
-This README file was created for practice.
+This repository demonstrates basic Git operations.
+The project is intended for educational purposes.
