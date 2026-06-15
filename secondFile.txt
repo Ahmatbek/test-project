@@ -1,5 +1,5 @@
-Git is a distributed version control system.
-Each commit has a unique identifier.
+This repository is created for a Git practice assignment.
+The project contains sample files and commits.
 Repositories can be local or remote.
 Developers use branches to work on features.
 Merging combines changes from different branches.
